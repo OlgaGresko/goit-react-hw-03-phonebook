@@ -1,0 +1,11 @@
+.label {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    font-size: 20px;
+}
+
+.input {
+    height: 30px;
+    width: 300px;
+}
